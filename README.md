@@ -1,6 +1,3 @@
-## 👋 Hi, I’m Chapaev Anton
-
-## Android developer
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -9,6 +6,8 @@
 ChapaevAnton/ChapaevAnton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=32&duration=3500&pause=500&color=58A6FF&center=true&vCenter=true&width=435&height=100&lines=Hi%2C+I%E2%80%99m+Chapaev+Anton;Android+developer)](https://git.io/typing-svg)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
